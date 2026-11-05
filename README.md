@@ -40,9 +40,9 @@
       <p><b>Tech:</b> Django, HTML/CSS, PostgreSQL</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 <b>CrossJudge (In Dev)</b></h3>
-      <p>A cross-platform browser extension mapping equivalent coding problems between LeetCode, HackerRank, and CodeChef seamlessly.</p>
-      <p><b>Tech:</b> Chrome Extension MV3, JavaScript</p>
+      <h3 align="center">🧩 <a href="https://github.com/Skwork75/CodeSangam">CodeSangam</a> <sup><i>(In Dev)</i></sup></h3>
+      <p>A Chrome extension that connects the same coding problem across LeetCode, HackerRank, and CodeChef, so you can practice an equivalent problem on another platform in one click.</p>
+      <p><b>Tech:</b> Chrome Extension MV3, JavaScript, Python</p>
     </td>
   </tr>
 </table>
