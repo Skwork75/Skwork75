@@ -59,14 +59,6 @@
 
 <br/><br/>
 
-### 📊 GitHub Activity & Contribution Graph
-
-<a href="https://github.com/Skwork75">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skwork75&theme=github-compact&hide_border=true&bg_color=0D1117&color=26A641&line=26A641&point=ffffff" width="100%" alt="GitHub Activity Graph" />
-</a>
-
-<br/><br/>
-
 ### ⚔️ Live LeetCode Performance
 
 <a href="https://leetcode.com/u/Saurab_h_Singh/">
@@ -91,8 +83,13 @@
 <br/>
 
 ### 🏆 Key Achievements & Milestones
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
 
 - 🎓 **School Topper** in Class 12 Board Examination (*Computer Science*).
 - 📈 **Academic Excellence:** Maintained a strong academic record with a **CGPA of 9.0+**.
 - ⚔️ **Competitive Programming:** Solved 400+ problems across Arrays, Trees, Graphs, Backtracking, and DP on **LeetCode** & **Codeforces**.
 - 🧱 **DSA Mastery:** Implemented core data structures from scratch including Stacks, Queues, Linked Lists, Trees, Graphs, DP, and Backtracking algorithms.
+
+</details>
